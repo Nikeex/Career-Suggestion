@@ -202,6 +202,19 @@ h4 {
     position: relative;
 }
 
+.blog{
+    display: flex;
+    padding: 5% 10%;
+}
+.card{
+    display: flex;
+    margin: 1.5rem 1.5rem;
+}
+.card-btn{
+    /* border-radius:50%; */
+    
+}
+
 /*--------------------------------
   media queries style start 
 ------------------------- */
